@@ -1,0 +1,10 @@
+canvas {
+  image-rendering: pixelated;
+  width: 500px;
+  height: 500px;
+  border: solid 1px black;
+  box-sizing: border-box;
+}
+
+button {
+}
